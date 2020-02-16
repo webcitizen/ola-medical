@@ -36,8 +36,8 @@ ul{
 	font-size: 30px;
 }
 .footer1{
-/*	overflow-x: hidden;
-	overflow-y: hidden;*/
+	overflow-x: hidden;
+	overflow-y: hidden;
 	position: absolute;
 	background-color: darkgreen;
 	width: 100%;
@@ -46,8 +46,8 @@ ul{
 	padding: 10px;
 }
 .footer2{
-/*	overflow-x: hidden;
-	overflow-y: hidden;*/
+	overflow-x: hidden;
+	overflow-y: hidden;
 	position: absolute;
 /*	height: 50px;*/
 	background-color: darkgreen;
