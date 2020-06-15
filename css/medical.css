@@ -42,16 +42,17 @@ ul{
 	height: 60px;
 	color: white;
 	padding: 10px;
+	margin-bottom:0;
 }
 .footer2{
-/*	overflow-x: hidden;
-	overflow-y: hidden;*/
+	overflow-y: hidden;
 	position: absolute;
 	height: 60px;
 	background-color: darkgreen;
 	width: 100%;
 	color: white;
 	padding: 10px;
+	margin-bottom:0;
 }
 @media (max-width: 700px) {
 .left{
