@@ -55,6 +55,9 @@ ul{
 	margin-bottom:0;
 }
 a {
+	color: white;
+}
+a:hover {
 	color: lightblue;
 }
 @media (max-width: 700px) {
